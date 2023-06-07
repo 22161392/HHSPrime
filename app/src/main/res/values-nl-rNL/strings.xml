@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_save_btn">Opslaan</string>
+    <string name="general_cancel_btn">Terug</string>
+    <string name="addShow_title_tv">TV serie toevoegen</string>
+    <string name="addShow_seasons_tv">Aantal seizoenen:</string>
+    <string name="addShow_characters_tv">Hoofdpesonage:</string>
+    <string name="overview_title_tv">Overzicht</string>
+    <string name="show_added">Serie toegevoegd!</string>
+    <string name="general_name_tv">Naam:</string>
+    <string name="addCharacter_title_tv">Personage toevoegen</string>
+    <string name="addCharacter_dateOfBirth_tv">Geboortedatum:</string>
+    <string name="show_empty">Niet alle velden zijn ingevuld</string>
+    <string name="general_show">Serie</string>
+    <string name="general_character">Karakter</string>
+    <string name="character_added">Karakter toegevoegd!</string>
+</resources>

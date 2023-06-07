@@ -1,0 +1,32 @@
+<resources>
+
+    <!--GENERAL-->
+    <string name="general_app_name" translatable="false">HHS Prime</string>
+    <string name="general_name_tv">Name:</string>
+    <string name="general_save_btn">Save</string>
+    <string name="general_cancel_btn">Cancel</string>
+    <string name="general_show">Show</string>
+    <string name="general_character">Character</string>
+
+    <!--OVERVIEW ACTIVITY-->
+    <string name="overview_title_tv">Overview</string>
+
+    <!--ADD SHOW ACTIVITY-->
+    <string name="addShow_title_tv">Add TV show</string>
+    <string name="addShow_name_hint" translatable="false">Entourage</string>
+    <string name="addShow_seasons_tv">Number of seasons:</string>
+    <string name="addShow_seasons_hint" translatable="false">8</string>
+    <string name="addShow_characters_tv">Main character:</string>
+
+    <!--ADD CHARACTER ACTIVITY-->
+    <string name="addCharacter_title_tv">Add character</string>
+    <string name="addCharacter_name_hint" translatable="false">Mr. White</string>
+    <string name="addCharacter_dateOfBirth_tv">Date of Birth:</string>
+    <string name="addCharacter_dateOfBirth_hint" translatable="false">01-01-1980</string>
+
+    <!--TOASTS-->
+    <string name="show_added">Show Added!</string>
+    <string name="show_empty">Some items are empty:</string>
+    <string name="character_added">Character Added!</string>
+
+</resources>
